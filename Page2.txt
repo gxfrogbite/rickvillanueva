@@ -1,0 +1,104 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<title>Wherever You Will Go Lyrics</title>
+
+<style>
+body {
+  background-image: url('https://www.wallpapertip.com/wmimgs/23-239586_abstract-light-wallpaper-hd.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+
+<div class="div-share"><h1><center><p style="font-family: Trebuchet ms">Wherever You Will Go by The Calling</center></h1></div>
+
+
+
+
+<center><audio width="400" controls>
+<source src="Song2.mp3" type="audio/mpeg">
+</audio><center>
+
+
+<center><i><p style="font-family: Trebuchet ms">Intro:</p></i>
+<p style="font-family: Trebuchet ms">So lately, been wondering<br>
+Who will be there to take my place<br>
+When I'm gone, you'll need love<br>
+To light the shadows on your face<br>
+<br>
+If a great wave shall fall<br>
+It'd fall upon us all<br>
+And between the sand and stone<br>
+Could you make it on your own?<br><br>
+</p>
+
+<p style="font-family: Trebuchet ms"><i>Chorus:</i></p>
+<p style="font-family: Trebuchet ms">If I could, then I would<br>
+I'll go wherever you will go<br>
+Way up high or down low<br>
+I'll go wherever you will go<br>
+<br>
+</p>
+
+<p style="font-family: Trebuchet ms"><i>Verse 2:</i></p>
+<p style="font-family: Trebuchet ms">And maybe, I'll find out<br>
+The way to make it back someday<br>
+To watch you, to guide you<br>
+Through the darkest of your days<br>
+<br>
+If a great wave shall fall<br>
+It'd fall upon us all<br>
+Well, then I hope there's someone out there<br>
+Who can bring me back to you<br>
+<br>
+</p>
+
+<p style="font-family: Trebuchet ms"><i>Chorus:</i></p>
+<p style="font-family: Trebuchet ms">If I could, then I would<br>
+I'll go wherever you will go<br>
+Way up high or down low<br>
+I'll go wherever you will go<br>
+<br>
+</p>
+
+<p style="font-family: Trebuchet ms"><i>Bridge:</i></p>
+<p style="font-family: Trebuchet ms">Run away with my heart<br>
+Run away with my hope<br>
+Run away with my love<br>
+I know now, just quite how<br>
+My life and love might still go on<br>
+In your heart, in your mind<br>
+I'll stay with you for all of time<br>
+</br>
+</p>
+
+<p style="font-family: Trebuchet ms">If I could, then I would<br>
+I'll go wherever you will go<br>
+Way up high or down low<br>
+I'll go wherever you will go<br>
+<br>
+If I could turn back time<br>
+I'll go wherever you will go<br>
+If I could make you mine<br>
+I'll go wherever you will go<br>
+<br>
+I'll go wherever you will go
+</p>
+</div>
+
+
+</p>
+</center>
+</div>
+</p>
+<br><br>
+
+
+
+
+</body>
+</html>

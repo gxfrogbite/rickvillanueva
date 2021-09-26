@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<title>Home</title>
+
+<style>
+body {
+  background-image: url('https://images8.alphacoders.com/117/1176014.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+
+<h1><p style="font-family: Trebuchet ms" "font-color: white"> WELCOME TO MY WEBPAGE<br>
+ Click any of these Artist Album <br>
+ to check the lyrics of my favorite songs!</p></h1>
+ 
+<a href="file:///C:/Users/PRIMROSE/Desktop/Rick%20Website/Page1.html">
+<img src="C:\Users\PRIMROSE\Desktop\Rick Website\photo1.jpg" width=250" height="300">
+      </a>
+<a href="file:///C:/Users/PRIMROSE/Desktop/Rick%20Website/Page2.html">
+<img src="C:\Users\PRIMROSE\Desktop\Rick Website\photo2.jpg" width=250" height="300">
+      </a>
+	  
+<a href="file:///C:/Users/PRIMROSE/Desktop/Rick%20Website/Page3.html">
+<img src="C:\Users\PRIMROSE\Desktop\Rick Website\photo3.jpg" width=250" height="300">
+      </a>
+	  
+<a href="file:///C:/Users/PRIMROSE/Desktop/Rick%20Website/Page4.html">
+<img src="C:\Users\PRIMROSE\Desktop\Rick Website\photo4.jpg" width=260" height="300">
+      </a>
+	  
+<a href="file:///C:/Users/PRIMROSE/Desktop/Rick%20Website/Page5.html">
+<img src="C:\Users\PRIMROSE\Desktop\Rick Website\photo5.jpg" width=300" height="300">
+</a>
+
+</body>
+</html>

@@ -1,0 +1,91 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<title>Blink-182 - Stay Together For The Kids Lyrics</title>
+
+<style>
+body {
+  background-image: url('https://www.wallpapertip.com/wmimgs/64-649254_light-colours-background-plain.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+
+<div class="div-share"><h1><center><p style="font-family: Trebuchet ms">Stay Together For The Kids by blink-182</center></h1></div>
+
+
+
+
+<center><audio width="400" controls>
+<source src="Song1.mp3" type="audio/mpeg">
+</audio><center>
+
+
+<center><i><p style="font-family: Trebuchet ms">[Mark Hoppus:]</p></i>
+<p style="font-family: Trebuchet ms">It's hard to wake up<br>
+When the shades have been pulled shut<br>
+This house is haunted, it's so pathetic<br>
+It makes no sense at all<br>
+I'm ripe with things to say<br>
+The words rot and fall away<br>
+What stupid poem could fix this home?<br>
+I'd read it every day<br>
+<br>
+</p>
+
+<p style="font-family: Trebuchet ms"><i>[Chorus: Tom DeLonge:]</i></p>
+<p style="font-family: Trebuchet ms">So here's your holiday<br>
+Hope you enjoy it this time, you gave it all away<br>
+It was mine, so when you're dead and gone<br>
+Will you remember this night, twenty years now lost?<br>
+<br>
+It's not right<br>
+<br>
+</p>
+
+<p style="font-family: Trebuchet ms"><i>[Mark Hoppus:]</i></p>
+<p style="font-family: Trebuchet ms">Their anger hurts my ears<br>
+Been running strong for seven years<br>
+Rather than fix the problems<br>
+They never solve them, it makes no sense at all<br>
+I see them everyday<br>
+We get along, so why can't they?<br>
+If this is what he wants<br>
+And it's what she wants, then why is there so much pain?<br>
+<br>
+</p>
+
+<p style="font-family: Trebuchet ms"><i>[Tom DeLonge:]</i></p>
+<p style="font-family: Trebuchet ms">So here's your holiday<br>
+Hope you enjoy it this time, you gave it all away<br>
+It was mine, so when you're dead and gone<br>
+Will you remember this night, twenty years now lost?<br>
+<br>
+It's not right<br>
+<br>
+</p>
+
+<p style="font-family: Trebuchet ms">So here's your holiday<br>
+Hope you enjoy it this time, you gave it all away<br>
+It was mine, so when you're dead and gone<br>
+Will you remember this night, twenty years now lost?<br>
+<br>
+</p>
+
+<p style="font-family: Trebuchet ms">It's not right<br>
+It's not right<br>
+It's not right<br>
+It's not right
+</center>
+</div>
+</p>
+<br><br>
+
+
+
+
+</body>
+</html>

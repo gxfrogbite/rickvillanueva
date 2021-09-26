@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<body>
+<title>Story of my Life</title>
+
+
+<center><a href="https://ibb.co/PwqbgKf">
+<img src="https://ibb.co/PwqbgKf" alt="rick" border="0" width="150" height="150"></a></center>
+		     	
+<center><h1><p style="font-family:verdana">Story of my life</p></h1></center>
+
+<h1> I am Rick Villanueva and you can call me Rex. In all honesty, my life is like a wheel sometimes going up and sometimes going down. 
+Indeed its too cliche but thats the reality in me. My college life, When it comes to working on my assignments, I still prefer to do it alone. 
+I do not depend on others. One of my greatest skills is that Im so friendly and when dealing with new people I always used to care with discretion. 
+I am a great Gambler too, I know how to play poker, tong-its, three cards and betting on cock fights.</h1>
+
+<h1>Most importantly, In these uncertain times, I am really having a challenging time because I need to do self study. 
+It is an imperative duty as a student not to skip classes even though it is an online class. 
+In my view online classes are not so effective when it comes to expanding our knowledge. 
+In addition to the above-mentioned, my plans soon are to study in a review center and take the licensed customs brokers examination. 
+I want to be a passionate customs broker in the future. Also, to help my parents and support them financially. 
+Before anything else I need to start doing my job as a student so that my goals in life will be present in the future.</h1>
+
+<h2>THAT WOULD BE ALL...GOD BLESS EVERYONE!!!</h2>
+</body>
+</html>

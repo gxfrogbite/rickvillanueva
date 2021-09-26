@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<title>I Don't Love You Lyrics</title>
+
+<style>
+body {
+  background-image: url('https://www.wallpapertip.com/wmimgs/11-112111_wallpaper-grey-blue-gradient-linear-light-blue-gray.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+
+<div class="div-share"><h1><center><p style="font-family: Trebuchet ms">I Don't Love You by My Chemical Romance</center></h1></div>
+
+
+
+
+<center><audio width="400" controls>
+<source src="Song3.mp3" type="audio/mpeg">
+</audio><center>
+
+
+<center><i><p style="font-family: Trebuchet ms">Intro:</p></i>
+<p style="font-family: Trebuchet ms">Well, when you go<br>
+Don't ever think I'll make you try to stay<br>
+And maybe when you get back<br>
+I'll be off to find another way<br>
+</p>
+<br>
+<p style="font-family: Trebuchet ms">And after all this time that you still owe<br>
+You're still a good-for-nothing, I don't know<br>
+So take your gloves and get out<br>
+Better get out while you can<br>
+</p>
+<br>
+<i><p style="font-family: Trebuchet ms">Chorus:</p></i>
+<p style="font-family: Trebuchet ms">When you go, and would you even turn to say<br>
+I don't love you like I did yesterday<br>
+</p>
+<br>
+<i><p style="font-family: Trebuchet ms">Verse 2</p></i>
+<p style="font-family: Trebuchet ms">Sometimes I cry so hard from pleading<br>
+So sick and tired of all the needless beating<br>
+But baby, when they knock you down and out<br>
+Is where you ought to stay<br>
+<br>
+And after all the blood that you still owe<br>
+Another dollar's just another blow<br>
+So fix your eyes and get up<br>
+Better get up while you can, whoa, whoa, whoa<br>
+<br>
+When you go, and would you even turn to say<br>
+I don't love you like I did yesterday<br>
+<br>
+Well, come on, come on!<br>
+<br>
+When you go, would you have the guts to say<br>
+I don't love you like I loved you yesterday<br>
+<br>
+I don't love you like I loved you yesterday<br>
+I don't love you like I loved you yesterday
+</p>
+</div>
+
+
+</p>
+</center>
+</div>
+</p>
+<br><br>
+
+
+
+</body>
+</html>

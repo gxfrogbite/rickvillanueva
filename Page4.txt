@@ -1,0 +1,102 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+
+<title>One Last Breath Lyrics</title>
+
+<style>
+body {
+  background-image: url('https://www.wallpapertip.com/wmimgs/8-85665_high-resolution-white-gradient-background.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+}
+</style>
+
+<div class="div-share"><h1><center><p style="font-family: Trebuchet ms">One Last Breath by Creed</center></h1></div>
+
+
+
+
+<center><audio width="400" controls>
+<source src="Song4.mp3" type="audio/mpeg">
+</audio><center>
+
+
+<center><i><p style="font-family: Trebuchet ms">Intro:</p></i>
+<p style="font-family: Trebuchet ms">Please come now I think I'm falling<br>
+I'm holding on to all I think is safe<br>
+It seems I found the road to nowhere<br>
+And I'm trying to escape<br>
+I yelled back when I heard thunder<br>
+But I'm down to one last breath<br>
+And with it let me say<br>
+Let me say<br>
+</p>
+<br>
+<i><p style="font-family: Trebuchet ms">Chorus:</p></i>
+<p style="font-family: Trebuchet ms">Hold me now<br>
+I'm six feet from the edge and I'm thinking<br>
+Maybe six feet<br>
+Ain't so far down<br>
+<br>
+<p style="font-family: Trebuchet ms">Verse 2:</p></i>
+<p style="font-family: Trebuchet ms">I'm looking down now that it's over<br>
+Reflecting on all of my mistakes<br>
+I thought I found the road to somewhere<br>
+Somewhere in His grace<br>
+I cried out heaven save me<br>
+But I'm down to one last breath<br>
+And with it let me say<br>
+Let me say<br>
+</p>
+<br>
+<i><p style="font-family: Trebuchet ms">Chorus:</p></i>
+<p style="font-family: Trebuchet ms"Hold me now<br>
+I'm six feet from the edge and I'm thinking<br>
+Maybe six feet<br>
+Ain't so far down<br>
+<br>
+Hold me now<br>
+I'm six feet from the edge and I'm thinking<br>
+Maybe six feet<br>
+Ain't so far down<br>
+<br>
+I'm so far down<br>
+<br>
+<i><p style="font-family: Trebuchet ms">Bridge:</p></i>
+<p style="font-family: Trebuchet ms">Sad eyes follow me<br>
+But I still believe there's something left for me<br>
+So please come stay with me<br>
+'Cause I still believe there's something left for you and me<br>
+For you and me<br>
+For you and me<br>
+<br>
+Hold me now<br>
+I'm six feet from the edge and I'm thinking<br>
+<br>
+Hold me now<br>
+I'm six feet from the edge and I'm thinking<br>
+Maybe six feet<br>
+Ain't so far down<br>
+<br>
+Hold me now<br>
+I'm six feet from the edge and I'm thinking<br>
+Maybe six feet<br>
+Ain't so far down<br>
+<br>
+Please come now I think I'm falling<br>
+I'm holding on to all I think is safe
+</div>
+
+</p>
+</center>
+</div>
+</p>
+<br><br>
+
+
+
+</body>
+</html>
